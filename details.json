@@ -1,0 +1,104 @@
+{
+  "details": [
+    {
+      "Title": "Hindi Medium",
+      "Year": "2017",
+      "Rated": "Not Rated",
+      "Released": "19 May 2017",
+      "Runtime": "132 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Saket Chaudhary",
+      "Writer": "Sonu Sinha, Saket Chaudhary, Amitosh Nagpal",
+      "Actors": "Irrfan Khan, Saba Qamar, Dishita Sehgal",
+      "Plot": "A couple from Chandni Chowk aspire to give their daughter the best education and thus be a part of and accepted by the elite of Delhi.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "7 wins & 17 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2E4NWQ4ZjEtNThlOC00NThjLThmZjgtMWU0MDgzMmYwOGU3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "29,781",
+      "imdbID": "tt5764096",
+      "Type": "movie",
+      "DVD": "16 Jan 2018",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Film Hindi",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "09 Mar 2004",
+      "Runtime": "N/A",
+      "Genre": "Comedy",
+      "Director": "Mounir Rady",
+      "Writer": "Hani Fawzi",
+      "Actors": "Salah Abdullah, Ahmad Adam, Menna Shalabi",
+      "Plot": "Sayed, a barber lives in Shubra neighborhood with a friend of his age Atef. the two fiances find an apartment in Shubra at a suitable price, at the same",
+      "Language": "Arabic",
+      "Country": "Egypt",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWZjMmU2NTQtMWYxZi00YThkLTkwN2YtMmYwNTQ1MWFiMzQ3XkEyXkFqcGdeQXVyMjQ0ODM4MDU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "3.5",
+      "imdbVotes": "306",
+      "imdbID": "tt0406774",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Wedding tayo, wedding hindi!",
+      "Year": "2011",
+      "Rated": "N/A",
+      "Released": "31 Aug 2011",
+      "Runtime": "115 min",
+      "Genre": "Comedy",
+      "Director": "Jose Javier Reyes",
+      "Writer": "Jose Javier Reyes",
+      "Actors": "Toni Gonzaga, Eugene Domingo, Zanjoe Marudo",
+      "Plot": "Two women are at very different stages of their love life. One is middle aged and looking for a way out of her marriage. The other is young, outgoing, and excited to get married to the love of her life. The two try to convince eac...",
+      "Language": "Filipino, Tagalog",
+      "Country": "Philippines",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQwOTAyN2EtNmJhOS00Yjg4LTg3YWEtMmU5NmI2MTBhMGZkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "72",
+      "imdbID": "tt2027274",
+      "Type": "movie",
+      "DVD": "14 Jul 2020",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  ]
+}
