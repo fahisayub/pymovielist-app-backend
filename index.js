@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("Welcome to the Backend!");
+  res.send("<div><h1>Welcome to the pymovie Backend!</h1> <h2>APIs</h2> <div><a href='/movies/get'>/movies/get</a></div>  <div><a href='/details/:id'>/details/:id</a></div> </div>");
 });
 
 app.use("/movies", movieRouter);
